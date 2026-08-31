@@ -99,3 +99,14 @@ I am currently seeking opportunities to contribute as a Junior Data Analyst or D
 Email: [oluchirose7@gmail.com]
 
 LinkedIn: [Your LinkedIn profile]
+
+## Projects
+
+### 1. CRM Sales Pipeline Portfolio Case Study
+[View CRM Sales Pipeline Case Study](CRM_Sales_Pipeline_Portfolio_Case_Study.docx)
+
+### 2. RoseMart Retail Portfolio Case Study
+[View RoseMart Retail Case Study](RoseMart_Retail_Portfolio_Case_Study.docx)
+
+### 3. RoseMart SQL Portfolio Case Study
+[View RoseMart SQL Case Study](RoseMart_SQL_Portfolio_Case_Study.docx)
