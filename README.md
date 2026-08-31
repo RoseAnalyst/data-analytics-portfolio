@@ -66,6 +66,28 @@ A collection of practical SQL analyses demonstrating the ability to query, filte
 - Business-focused queries
 - Data exploration
 
+## Dashboard Visuals
+
+### CRM Sales Overview
+
+![CRM Overview Dashboard](crm-overview-dashboard.jpeg)
+
+### Sales Cycle Analysis
+
+![Sales Cycle Analysis](sales-cycle-analysis.jpeg)
+
+### CRM Analysis
+
+![CRM Analysis Dashboard](crm-analysis-dashboard.jpeg)
+
+### Account Analysis
+
+![Account Analysis Dashboard](account-analysis-dashboard.jpeg)
+
+### Sales Team Analysis
+
+![Sales Team Analysis](sales-team-analysis.jpeg)
+
 ## About Me
 
 I enjoy using data to understand business performance, identify patterns, and communicate insights clearly.
@@ -74,6 +96,6 @@ I am currently seeking opportunities to contribute as a Junior Data Analyst or D
 
 ## Contact
 
-Email: [Your email]
+Email: [oluchirose7@gmail.com]
 
 LinkedIn: [Your LinkedIn profile]
