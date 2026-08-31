@@ -98,7 +98,7 @@ I am currently seeking opportunities to contribute as a Junior Data Analyst or D
 
 Email: [oluchirose7@gmail.com]
 
-LinkedIn: [Your LinkedIn profile]
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oluchi-anyanechi-0a6992160)
 
 ## Projects
 
